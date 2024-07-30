@@ -1,0 +1,41 @@
+body {
+ font-family: "Poppins", sans-serif;
+}
+
+header {
+    background:black;
+    color: white;
+    text-align: center;
+    padding-top: 125px;
+    padding-bottom: 50px;
+    
+}
+
+.container {
+    padding: 100px;
+}
+.contact {
+    text-align: center;
+}
+
+.download {
+    border-radius: 35%;
+    letter-spacing: 2px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
